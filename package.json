@@ -1,0 +1,19 @@
+{
+  "name": "utils_xq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu307273470/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xu307273470/utils/issues"
+  },
+  "homepage": "https://github.com/xu307273470/utils#readme"
+}
