@@ -78,6 +78,9 @@
             var pathtmp;
             for (var i = 0; i < dirArr.length; i++) {
                 var item = dirArr[i];
+                if(item == "")
+                    continue;
+                    
                 if (pathtmp) {
                     pathtmp = path.join(pathtmp, item);
                 }
